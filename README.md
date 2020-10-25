@@ -1,4 +1,5 @@
 # euiadmin
+# vue
 
 ## Project setup
 ```

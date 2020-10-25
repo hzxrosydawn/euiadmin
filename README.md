@@ -1,5 +1,6 @@
 # euiadmin
 # vue
+# element-ui
 
 ## Project setup
 ```
